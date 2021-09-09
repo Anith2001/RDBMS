@@ -1,0 +1,3 @@
+given the dept no total calculate commission
+
+given year of joining give me the count of employees who joined in that year
